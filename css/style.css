@@ -1,0 +1,13 @@
+header {
+    width: 100%;
+    margin:  auto 0px  auto 0px;
+    height: 70px;
+    background-color: black;
+}
+header ul li {
+    display: inline;
+    list-style: none;
+    float: right;
+    margin : 10px;
+}
+
